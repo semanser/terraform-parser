@@ -1,5 +1,5 @@
 # terraform-parser
-Incredibly fast, strictly typed terraform files parser written in Rust. Based on [serde](https://github.com/serde-rs/serde).
+Incredibly fast, strictly typed Terraform [JSON Output Format](https://www.terraform.io/language/syntax/json) parser written in Rust. Based on [serde](https://github.com/serde-rs/serde).
 
 
 # Usage
