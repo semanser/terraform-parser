@@ -1,7 +1,13 @@
 [package]
 name = "terraform-parser"
+description = "Strictly typed terraform plan and state files parser written in Rust."
+readme = "README.md"
+homepage = "https://github.com/semanser/terraform-parser"
+repository = "https://github.com/semanser/terraform-parser"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+keywords = ["terraform", "state", "parser", "serde"]
 
 [dependencies]
 serde_json = "1.0.79"
