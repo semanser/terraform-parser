@@ -1,5 +1,10 @@
 # terraform-parser
+![docs.rs](https://img.shields.io/docsrs/terraform-parser)
+![Crates.io](https://img.shields.io/crates/d/terraform-parser)
+![Crates.io](https://img.shields.io/crates/l/terraform-parser)
+
 Incredibly fast, strictly typed terraform files parser written in Rust. Based on [serde](https://github.com/serde-rs/serde).
+
 
 
 # Usage
