@@ -3,7 +3,7 @@
 [![Crates.io](https://img.shields.io/crates/d/terraform-parser)](https://crates.io/crates/terraform-parser)
 ![Crates.io](https://img.shields.io/crates/l/terraform-parser)
 
-Incredibly fast, strictly typed Terraform [JSON Output Format](https://www.terraform.io/internals/json-format) parser written in Rust. Based on [serde](https://github.com/serde-rs/serde).
+Incredibly fast, strongly typed Terraform [JSON Output Format](https://www.terraform.io/internals/json-format) parser written in Rust. Based on [serde](https://github.com/serde-rs/serde).
 
 # Usage
 
